@@ -1,0 +1,5 @@
+{
+  "name": "4P ATM Maintenance System",
+  "description": "A web application to manage and track ATM maintenance reports between 4P, a maintenance company, and NBE, a bank client. Admins can add new reports with photos, while bank users can view and filter recent reports.",
+  "requestFramePermissions": []
+}
